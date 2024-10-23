@@ -1,0 +1,1 @@
+Mirror Codex uses the API's of Unitcrunch and Wahapedia along with the output from the warhammer app to generate rules and lethality calculations on the fly.
